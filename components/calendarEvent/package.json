@@ -9,7 +9,7 @@
   "dependencies": {
     "moment": "^2.24.0",
     "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react-native": "0.62.3",
     "react-native-add-calendar-event": "^2.3.0",
     "react-native-calendar-events": "^1.7.0"
   },
